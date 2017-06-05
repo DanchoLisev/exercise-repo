@@ -4,3 +4,4 @@ Writing some updates from the clone folder in TortoiseGit. This will make confli
 Making changes, adding empty words, for fun and for the excercise.
 Resolving confilct from clone folder of TortoiseGit
 
+Another changes made online from GitHub
