@@ -2,4 +2,8 @@ New file made in Tortoise clone directory...
 
 Made some changes after the changes made in the develop branch by Tortoise.
 
+
 Making changes from clone folder of GitBash...1,2,3
+
+These are changes made online from Github at the same time the changes were made from GitBash 1,2,3
+
