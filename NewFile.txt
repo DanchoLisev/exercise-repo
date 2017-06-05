@@ -1,1 +1,3 @@
 New file made in Tortoise clone directory...
+
+Made some changes after the changes made in the develop branch by Tortoise.
